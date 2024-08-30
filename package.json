@@ -2,7 +2,7 @@
   "name": "cicdtestzone",
   "version": "1.0.0",
   "description": "hello, dhruv!",
-  "main": "index.js",
+  "main": "Test.js",
   "scripts": {
     "start": "node Test.js",
     "test": "echo \"Error: no test specified\" && exit 1"
